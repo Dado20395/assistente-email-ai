@@ -4,7 +4,7 @@ Un'applicazione web avanzata costruita con Streamlit e l'API di Google Gemini pe
 
 ## 📸 Screenshot
 
-(Screenshot dell'applicazione in funzione da aggiungere in seguito)
+
 
 ## 🚀 Funzionalità Principali
 
