@@ -3,7 +3,8 @@
 Un'applicazione web avanzata costruita con Streamlit e l'API di Google Gemini per generare, perfezionare e personalizzare email complesse in modo rapido e intuitivo. Questo progetto dimostra l'integrazione di un'AI in un'interfaccia utente reattiva, con memoria di sessione e capacità conversazionali.
 
 ## 📸 Screenshot
-
+https://github.com/Dado20395/assistente-email-ai/blob/main/Immagine%202025-06-12%20175945.jpg
+https://github.com/Dado20395/assistente-email-ai/blob/main/Immagine%202025-06-12%20180045.jpg
 
 
 ## 🚀 Funzionalità Principali
